@@ -18,7 +18,7 @@ const Header = () => {
             </div>
             {/*  Site Name */}
             <div className="text-white font-medium pr-10">
-                <p className="border-b-2">Learn English & Fight Your Fear</p>
+                <p className="border-b-2"><i class="fab fa-leanpub"></i> Learn English & Fight Your Fear</p>
             </div>
         </div>
     );

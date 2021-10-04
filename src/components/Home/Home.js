@@ -26,7 +26,7 @@ const Home = () => {
                <h1 className="text-5xl m-5">Fluency in English begins with overcoming your fears </h1>
                <p className="text-3xl m-5">We invite you to choose a course and start your journey with us</p>
                {/* The button will go to Service Page   */}
-               <button onClick={handleClick} className="bg-green-600 px-5 py-3 font-medium text-xl rounded">Get Started</button>
+               <button onClick={handleClick} className="bg-green-600 px-5 py-3 font-medium text-xl rounded"> <i class="fas fa-hourglass-start"></i> Get Started</button>
            </div>
            <div className="p-20 min-h-full">
             <div className="grid gap-10 grid-cols-2">
