@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "name": "Let's Talk in English",
+        "img": "https://img-c.udemycdn.com/course/240x135/1314752_05c7_4.jpg",
+        "price": "2000",
+        "rating": "4",
+        "totalLecture": 80,
+        "courseDuration": "50 hours"
+    },
+    {
+        "id": "2",
+        "name": "Improve Communication Skills",
+        "img": "https://img-c.udemycdn.com/course/240x135/1526882_ea81_43.jpg",
+        "price": "3500",
+        "rating": "4.5",
+        "totalLecture": 60,
+        "courseDuration": "45 hours"
+        
+    },
+    {
+        "id": "3",
+        "name": "English for Doing Business",
+        "img": "https://img-c.udemycdn.com/course/240x135/1657792_f533_3.jpg",
+        "price": "0500",
+        "rating": "4.3",
+        "totalLecture": 100,
+        "courseDuration": "88 hours"
+    },
+    {
+        "id": "4",
+        "name": "English for Career Development",
+        "img": "https://img-c.udemycdn.com/course/240x135/1022822_7a28_16.jpg",
+        "price": "4200",
+        "rating": "3.9",
+        "totalLecture": 55,
+        "courseDuration": "50 hours"
+    },
+    {
+        "id": "5",
+        "name": "Sound Like a Native Speaker",
+        "img": "https://img-c.udemycdn.com/course/240x135/2182660_4325_8.jpg",
+        "price": "6000",
+        "rating": "4",
+        "totalLecture": 80,
+        "courseDuration": "102 hours"
+    },
+    {
+        "id": "6",
+        "name": "English Speaking Patterns Mastery",
+        "img": "https://img-c.udemycdn.com/course/240x135/1037886_ea21_3.jpg",
+        "price": "5000",
+        "rating": "4.6",
+        "totalLecture": 58,
+        "courseDuration": "65 hours"
+    },
+    {
+        "id": "7",
+        "name": "Building Your English Brain",
+        "img": "https://img-c.udemycdn.com/course/240x135/834702_d56e_8.jpg",
+        "price": "3800",
+        "rating": "3.5",
+        "totalLecture": 40,
+        "courseDuration": "49 hours"
+    },
+    {
+        "id": "8",
+        "name": "Master Polite English",
+        "img": "https://img-c.udemycdn.com/course/240x135/198866_3854.jpg",
+        "price": "3000",
+        "rating": "3.3",
+        "totalLecture": 32,
+        "courseDuration": "38 hours"
+    },
+    {
+        "id": "9",
+        "name": "English for IT Professionals",
+        "img": "https://img-c.udemycdn.com/course/240x135/3199884_8c66_3.jpg",
+        "price": "2500",
+        "rating": "4.8",
+        "totalLecture": 30,
+        "courseDuration": "25 hours"
+    }
+]

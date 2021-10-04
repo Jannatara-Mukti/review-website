@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "name": "Let's Talk in English",
+        "img": "https://img-c.udemycdn.com/course/240x135/1314752_05c7_4.jpg",
+        "price": "2000",
+        "rating": "4",
+        "totalLecture": 80,
+        "courseDuration": "50 hours"
+    },
+    {
+        "id": "2",
+        "name": "Improve Your English Communication Skills",
+        "img": "https://img-c.udemycdn.com/course/240x135/1526882_ea81_43.jpg",
+        "price": "3500",
+        "rating": "4.5",
+        "totalLecture": 60,
+        "courseDuration": "45 hours"
+        
+    },
+    {
+        "id": "3",
+        "name": "English for Doing Business",
+        "img": "https://img-c.udemycdn.com/course/240x135/1657792_f533_3.jpg",
+        "price": "0500",
+        "rating": "4.3",
+        "totalLecture": 100,
+        "courseDuration": "88 hours"
+    },
+    {
+        "id": "4",
+        "name": "English for Career Development",
+        "img": "https://img-c.udemycdn.com/course/240x135/1022822_7a28_16.jpg",
+        "price": "4200",
+        "rating": "3.9",
+        "totalLecture": 55,
+        "courseDuration": "50 hours"
+    }
+]
