@@ -1,5 +1,5 @@
 # Learn English & Fight Your Fear (Become Expert on English)
-The Live Website Link (https://learn-english-fightfear.netlify.app/home)
+The Live Website Link (https://learn-english-fightfear.netlify.app/)
 
 - This Website will help people to learn English
 - People can buy courses from this website
