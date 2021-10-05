@@ -1,8 +1,7 @@
 # Learn English & Fight Your Fear (Become Expert on English)
 The Live Website Link (https://learn-english-fightfear.netlify.app/)
 
-- This Website will help people to learn English
+- This Website is helping people to learn English by giving free tips
 - People can buy courses from this website
-- This website is making a oppurtunity for people to become fluent on English
+- This website can calculate courses total price
 - You can read free Articles to learn English
-- This Website is also helping individuals to get a successful career bt improving their communicational skills
